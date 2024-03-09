@@ -1,0 +1,98 @@
+body{ background-color: rgb(10, 241, 230);}
+#hero_section{height: 48vh;
+/*border: 1px solid black;*/
+display: flex;
+}
+
+.Onset{
+    /*border: 1px dotted black;*/
+width: 50%;
+height: 100%;
+}
+p{
+    font-size: 180%;
+}
+#Mapema{
+    font-size: 700%;
+}
+#name{
+    text-align: center;
+}
+#Photo{
+    width: 98%;
+    height: 95%;
+    border-radius: 5%;
+}
+#about me{
+    text-align: center;
+    
+}
+#Tskills{
+    font-size: 180%;
+}
+#Sec_2{
+    background-color: white;
+}
+#Mkuu{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: 130%;
+    font-size: 200%;
+}
+#Wakuu{
+    padding-left: 5%;
+    padding-right: 5%
+}
+#skills{
+    font-weight: 70%;
+    text-align: center;
+    font-size: 200%;
+}
+#Tskills{
+    font-weight: 90%;
+    padding-left: 30%;
+
+}
+#contact{
+    text-align: center;
+    font-size: 200%;
+    padding-right: 8%;
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 3% ;
+}
+.Nm{
+    font-size: 170%;
+}
+
+#sample{
+    font-size: 200%;
+    font-weight: 130%;
+    text-align: center;
+}
+#image1{
+    width: 30%;
+    height: 40%;
+    
+}
+#image2{
+    width: 30%;
+    height: 40%;
+    padding-left: 2%;
+    
+}
+#image3{
+    padding-left: 3%;
+    width: 30%;
+    
+}
+#Sec3{
+    margin-top: 5%;
+}
+.Office{
+    display: flex;
+}
